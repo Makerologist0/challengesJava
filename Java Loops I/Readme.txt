@@ -1,0 +1,1 @@
+Java'da döngülerin kavranması için yaptığımız bir alıştırma. Kolay düzeyde. 
